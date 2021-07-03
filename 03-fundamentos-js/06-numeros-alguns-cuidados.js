@@ -15,6 +15,9 @@ console.log((10.1564598).toFixed(2))
  */
 
 console.log('10' / 2) // faz a divisão so em caso de valor inteiro na string
-const vl = '3' + 2
-console.log(vl) // retorna uma string
-console.log(typeof vl) // retorna uma string
+const vl1 = '3' + 2
+console.log(vl1) // retorna uma string
+console.log(typeof vl1) // retorna uma string
+const vl2 = '3' - 2
+console.log(vl2) // retorna um number
+console.log(typeof vl2) // retorna um number

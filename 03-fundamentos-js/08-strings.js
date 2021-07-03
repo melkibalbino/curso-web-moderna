@@ -24,4 +24,4 @@ console.log(escola.replace('o',  '@'))
 // Replace com Regex
 console.log(escola.replace(/\d/, 'e'))
 
-console.log('pedro,thiago,joão'.split(','))
+console.log('pedro,thiago,joão'.split(',')) // Aceita Regex tbm
