@@ -33,3 +33,10 @@ console.log(!!(isAtivo = null))
 
 // para finalizar
 console.log('' || null || 0 || 'epa' || 123)
+
+// Usado muito para colocar valores padrões
+let nome = ''
+console.log(nome || 'Desconhecido')
+
+nome = 'Jurema'
+console.log(nome || 'Desconhecido')
